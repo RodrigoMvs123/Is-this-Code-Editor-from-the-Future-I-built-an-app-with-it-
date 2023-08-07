@@ -2,6 +2,10 @@
 
 https://www.youtube.com/watch?v=_6k9Bqr0I0A 
 
+https://raw.githubusercontent.com/RodrigoMvs123/Is-this-Code-Editor-from-the-Future-I-built-an-app-with-it-/main/README.md
+
+
+
 Visual IDE ( Integrated Development Environment ) for React
 https://www.codux.com/ 
 
