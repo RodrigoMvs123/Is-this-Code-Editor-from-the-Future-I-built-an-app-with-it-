@@ -1,4 +1,5 @@
-# Is-this-Code-Editor-from-the-Future-I-built-an-app-with-it-
+
+## Is-this-Code-Editor-from-the-Future-I-built-an-app-with-it-
 
 https://www.youtube.com/watch?v=_6k9Bqr0I0A 
 
@@ -6,12 +7,13 @@ https://raw.githubusercontent.com/RodrigoMvs123/Is-this-Code-Editor-from-the-Fut
 
 https://github.com/RodrigoMvs123/Is-this-Code-Editor-from-the-Future-I-built-an-app-with-it-/blame/main/README.md
 
-Visual IDE ( Integrated Development Environment ) for React
-https://www.codux.com/ 
+## Visual IDE ( Integrated Development Environment ) for React
+- https://www.codux.com/ 
 
-https://www.codux.com/download 
+- https://www.codux.com/download 
 
-Condx
+## Condux
+```
 New Project
 Black Templates 
 Create React App
@@ -19,15 +21,19 @@ Create a new project
 Name 
 react-weather-application
 Create
+```
 
+```
 Home 
 Boards
 All Boards
 Run the configuration scripts ( Install ) 
 Run
 Close
+```
 
 Boards 
+```
 By Component
 App ( 1 )
 
@@ -45,8 +51,10 @@ Top Left            Top Right
 
 Bottom Left       Bottom Right 
 30 px                 30 px
+```
 
-Background 
+Background
+``` 
 Add a Layers
 Fill Picker
 Gradient 
@@ -56,14 +64,22 @@ Color Picker
 Gradient 
 Move Focal Point
 Apply
+```
 
 Text Align 
+```
 Center
+```
 
 Elements
+```
 App Board > App
 div.App
 Code
+```
+
+## Source Code
+```typescript 
 App.tsx
 
 App.tsx
@@ -74,25 +90,37 @@ function App() {
 }
 
 export default App;
+```
 
+```
 Add
 Add Elements 
 Components
 New Component
 Create a new component
 Component name
+```
+
+Board Name 
+
 https://www.compart.com/en/unicode/U+3004
-Board name 
+
 https://www.compart.com/en/unicode/U+3004
+
+```
 Template 
 default
 Create 
+```
 
+```
 App Board > App
 Elements
 Nav
+```
 
 Add
+```
 Add Elements 
 New Component
 Create a new component 
@@ -103,8 +131,10 @@ MainCard
 Template
 default
 Create
+```
 
 Add
+```
 Add Elements 
 New Component
 Create a new component 
@@ -115,8 +145,10 @@ Card
 Template
 default
 Create
+```
 
 Add
+```
 Add Elements 
 New Component
 Create a new component 
@@ -127,20 +159,28 @@ Footer
 Template
 default
 Create
-
+```
 
 Elements
+```
 App Board > App
 div.App
 Header
 Main Card
 Card
 Footer
+```
+
 
 Elements
+```
 App Board > App
 div.App
 Code
+```
+
+## Source Code
+```typescript
 App.tsx
 
 App.tsx
@@ -162,14 +202,23 @@ function App() {
 }
 
 export default App;
+```
 
 Elements
+```
 App Board > App
 div.App
 Code
+```
+
+Board Name
+
 https://www.compart.com/en/unicode/U+3004
 
 https://www.compart.com/en/unicode/U+3004
+
+## Source Code
+```
 import styles from ‘./https://www.compart.com/en/unicode/U+3004.module.scss’;
 import classNames from ‘classnames’;
 
@@ -184,11 +233,17 @@ export interface https://www.compart.com/en/unicode/U+3004Props {
 export const https://www.compart.com/en/unicode/U+3004 = {{ className } : https://www.compart.com/en/unicode/U+3004Props } => {
        return <div className={classNames(styles.root, className)}>https://www.compart.com/en/unicode/U+3004</div>;
 };
+```
 
 Elements
+```
 App Board > App
 div.App
 Code
+```
+
+## Source Code
+```typescript
 maincard.tsx
 
 maincard.tsx
@@ -206,11 +261,17 @@ export interface MainCardProps {
 export const MainCard = {{ className } : MainCardProps } => {
        return <div className={classNames(styles.root, className)}>MainCard</div>;
 };
+```
 
 Elements
+```
 App Board > App
 div.App
 Code
+```
+
+## Source Code
+```typescript
 card.tsx
 
 card.tsx
@@ -228,11 +289,17 @@ export interface CardProps {
 export const Card = {{ className } : CardProps } => {
        return <div className={classNames(styles.root, className)}>Card</div>;
 };
+```
 
 Elements
+```
 App Board > App
 div.App
 Code
+```
+
+## Source Code
+```typescript
 footer.tsx
 
 footer.tsx
@@ -250,8 +317,10 @@ export interface FooterProps {
 export const Footer = {{ className } : FooterProps } => {
        return <div className={classNames(styles.root, className)}>Footer</div>;
 };
+```
 
 Add
+```
 Html Elements
 Typography
 h1 
@@ -268,7 +337,10 @@ Classes
 logo-text
 Create Class
 Create
+```
+
 Elements
+```
 App Board > App
 Home 
 Elements
@@ -279,7 +351,10 @@ Text Align
 Left
 Color Picker
 #FDFDFD 
+```
+
 Elements
+```
 App Board > App
 Home 
 Elements
@@ -295,44 +370,70 @@ Border
                     0 px
 0px                                  0px
             1px #FDFDFD
+```
 
 Elements
+```
 App Board > App
 Footer
 div.root
+```
+
 Add
+```
 Html Elements
 Typography 
 h2
 Heading 2
+```
+
 Add
+```
 Html Elements
 Typography 
 h2
 Heading 2
+```
+
 Add
+```
 Html Elements
 Typography 
 h2
 Heading 2
+```
+
 Elements
+```
 App Board > App
 Footer
 div.root
 H h2
 H h2
 H h2
+```
+
 Elements
+```
 App Board > App
 Footer
 div.root
+```
+
 H h2
+
 https://www.compart.com/en/unicode/U+21E6 
+
 H h2
+
 https://emojipedia.org/unicode-sun 
+
 H h2
+
 https://www.compart.com/en/unicode/U+21E8
+
 Elements
+```
 App Board > App
 Footer
 div.root
@@ -354,7 +455,10 @@ Width
 Place Content
 Justify 
 Center
+```
+
 Elements
+```
 App Board > App
 Footer
 div.root
@@ -370,7 +474,10 @@ Color
 Font
 Font Size
 30 px
+```
+
 Elements
+```
 App Board > App
 Footer
 div.root
@@ -380,7 +487,10 @@ H h2
 apply a class
 Class Name
 footer-text
+```
+
 Elements
+```
 App Board > App
 Footer
 div.root
@@ -395,16 +505,20 @@ H h2.footer-text
 Padding
 T            R          B           L
 10 px      10 px    10 px    10 px
+```
 
 Elements
+```
 App Board > App
 Card
 div.root
 Size
+
 Width 
 100 px
 Hight 
 100 px
+
 Border 
 2 px
 2 px               2 px
@@ -428,11 +542,17 @@ T            R          B           L
 Margin
 T            R          B           L
 10 px      10 px    10 px    10 px
+```
+
 Elements
+```
 App Board > App
 Card
 div.root
+```
+
 Add
+```
 Html Elements
 Typography 
 p
@@ -451,8 +571,10 @@ Border
 Background 
 Color 
 rgba(255, 255, 255, 0.1)
+```
 
 Elements
+```` 
 App Board > App
 div.App
 Header
@@ -461,11 +583,17 @@ Card
 Card
 Card
 Footer
+```
 
 Elements
+```
 App Board > App
 div.App
 Code
+```
+
+## Source Code
+```typescript
 card.tsx
 
 card.tsx
@@ -483,11 +611,17 @@ export interface CardProps {
 export const Card = {{ className } : CardProps } => {
        return <div className={classNames(styles.root, className)}>Card</div>;
 };
+```
 
 Elements
+```
 App Board > App
 div.App
 Code
+```
+
+## Source Code
+```typescript
 card.tsx
 
 card.tsx
@@ -505,13 +639,19 @@ export interface CardProps {
 export const Card = {{ className } : CardProps } => {
        return <div className={classNames(styles.root, className)}>Card</div>;
 };
+```
 
 Add
+
 Add Elements
+```
 Html Elements
 Basic
 Div Blank
+```
+
 Elements
+```
 App Board > App
 div.App
 Header
@@ -525,7 +665,10 @@ apply a class
 Create Class
 card-container
 Create
+```
+
 Elements
+```
 App Board > App
 div.App
 Header
@@ -556,8 +699,11 @@ Elements
 div.root
 p
 Date
+```
 Add
+
 Add Elements
+```
 Basic
 Html Elements
 Image
@@ -574,8 +720,12 @@ Create
 Size
 Width 
 100%
+```
+
 Add
+
 Add Elements
+```
 Html Elements
 Typography
 h2
@@ -588,8 +738,12 @@ Date
 img.card-img
 h2
 Heading 2
+```
+
 Add
+
 Add Elements
+```
 Html Elements
 Typography
 P
@@ -683,12 +837,18 @@ Elements
 App Board > App
 div.App
 Main Card
+```
 
+```
 Home
 Elements
 div.root
+```
+
 Add
+
 Add Elements
+````
 Html Elements
 Basic 
 Image
@@ -708,8 +868,12 @@ img.main-img
 Size
 Width
 100%
+```
+
 Add
+
 Add Elements
+```
 Html Elements
 Typography
 h2
@@ -727,8 +891,14 @@ Create
 Image
 Color 
 #fdfdfd
+```
+
 Add
+
 Add Elements
+```
+
+```
 Html Elements
 Typography
 p
@@ -746,7 +916,9 @@ main-temp
 Create
 Color 
 #fdfdfd
+```
 
+```
 Margin
 T            R          B           L
 3 px        3 px      3 px       3 px
@@ -758,14 +930,24 @@ h2.main-heading
 Margin
 T            R          B           L
 4 px        4 px      4 px       4 px
+```
 
 Data from API ( Application Programming Interface )
+
 https://7timer.info/doc.php?lang=en 
+
 http://www.7timer.info/bin/api.pl?lon=113.17&lat=23.09&product=astro&output=xml 
+
 Elements
+
+``` 
 App Board > App
 div.App
 Code
+```
+
+## Source Code
+```typescript
 App.tsx
 
 App.tsx
@@ -836,10 +1018,15 @@ function App() {
 }
 
 export default App;
+```
 
+```
 Home
 App Board > App
 Log
+```
+
+```
 {
 Sorry, we can not find your location
 {
@@ -856,13 +1043,18 @@ Sorry, we can not find your location
 “wind10m_max”: 3
 },
 …
+```
 
 Elements
+```
 App Board > App
 div.App
 Code
 maincard.tsx
+```
 
+## Source Code
+```typescript
 maincard.tsx
 import styles from './maincard.module.scss';
 import classNames from 'classnames';
@@ -888,13 +1080,18 @@ export const MainCard = {{ className, temp } : MainCardProps } => {
         </div>;
     );
 };
+```
 
 Elements
+```
 App Board > App
 div.App
 Code
 card.tsx
+```
 
+## Source Code
+```typescript
 card.tsx
 import styles from './card.module.scss';
 import classNames from 'classnames';
@@ -937,13 +1134,18 @@ export const MainCard = {{ className, day } : CardProps } => {
         </div>;
     );
 };
+```
 
 Elements
+```
 App Board > App
 div.App
 Code
 App.tsx
+```
 
+## Source Code
+```typescript
 App.tsx
 App.tsx
 import { useState, useEffect } from 'react';
@@ -1037,13 +1239,18 @@ function App() {
 }
 
 export default App;
+```
 
 Elements
+```
 App Board > App
 div.App
 Code
 MainCard.tsx
+```
 
+## Source Code
+```typescript
 MainCard.tsx
 import styles from './maincard.module.scss';
 import classNames from 'classnames';
@@ -1070,14 +1277,18 @@ export const MainCard = {{ className, temp, img } : MainCardProps } => {
         </div>;
     );
 };
+```
 
 Elements
+```
 App Board > App
 div.App
 Code
 App.tsx
+```
 
-App.tsx
+## Source Code
+```typescript
 App.tsx
 import { useState, useEffect } from 'react';
 import styles from './App.module.scss';
@@ -1170,13 +1381,18 @@ function App() {
 }
 
 export default App;
+```
 
 Elements
+```
 App Board > App
 div.App
 Code
 card.tsx
+```
 
+## Source Code
+```typescript
 card.tsx
 import styles from './card.module.scss';
 import classNames from 'classnames';
@@ -1220,9 +1436,12 @@ export const MainCard = {{ className, day, img } : CardProps } => {
         </div>;
     );
 };
+```
 
 Home
+
 Elements
+```
 div.root
 img.main-img
 Size
@@ -1247,7 +1466,5 @@ Top Left                Top Right
 
 Bottom Left           Bottom Right  
 30 px                     30 px
-
-
-
+```
 
